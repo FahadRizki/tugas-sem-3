@@ -1,1 +1,2 @@
-# tugas-sem-3
+Contoh Overrid
+yaitu Hewan, Tikus, Anjing dan Mian merupakan pemanggil parameternya 
